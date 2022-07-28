@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)"
+options: "9a1a92567da5ba281853eeb8aa848932366c22d4c906cd6a3183548b7eafb970"
+build_start_time: [1654425921, 700217008]
+build_end_time: [1654425930, 594136953]
+inputs:
+  "/Users/apple/Developer/Learn/food_delivery/macos/Flutter/GeneratedPluginRegistrant.swift": [1654425885, 630354881]
+  "/Users/apple/Developer/Learn/food_delivery/macos/Runner/AppDelegate.swift": [1644454869, 0]
+  "/Users/apple/Developer/Learn/food_delivery/macos/Runner/MainFlutterWindow.swift": [1644454869, 0]
